@@ -1,0 +1,22 @@
+{
+  "name": "to-the-power-of-zero",
+  "version": "1.0.0",
+  "description": "Simple npm package that tells you what a number to the power of zero is!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conqr2/to-the-power-of-zero.git"
+  },
+  "keywords": [
+    "to-the-power-of-zero"
+  ],
+  "author": "conqr2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conqr2/to-the-power-of-zero/issues"
+  },
+  "homepage": "https://github.com/conqr2/to-the-power-of-zero#readme"
+}
